@@ -1,7 +1,3 @@
-Below is an example of a `README.md` for a fictional person who is homeless, loves cats, and programs in BASIC. This README aims to capture their unique background and interests in a compelling and respectful way.
-
----
-
 # Zdzichu Zadziorny
 
 Hello there! I'm Zdzichu, a passionate programmer and cat enthusiast who currently navigates the complexities of being without a fixed address. Despite my current circumstances, I remain devoted to exploring the vast realms of technology, particularly through the lens of BASIC programming, while advocating for the welfare of my feline friends.
@@ -32,7 +28,3 @@ I believe in the power of community and the difference we can make when we come 
 ## 📢 Contact Me
 
 While I might not have a permanent address, I am always reachable through this platform. Feel free to open an issue in this repo for inquiries about my projects, how you can contribute, or if you just want to have a chat about cats and coding!
-
----
-
-This README serves as a digital handshake, offering insight into the life and ambitions of someone who, despite facing personal challenges, uses their skills and passions to make a positive impact on the world around them.
